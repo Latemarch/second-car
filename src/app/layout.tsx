@@ -1,7 +1,13 @@
+import Header from "@/components/Header";
 import "./globals.css";
-import { Inter } from "next/font/google";
+import { Anek_Latin, Orbit } from "next/font/google";
+import SideBar from "@/components/SideBar";
 
-const inter = Inter({ subsets: ["latin"] });
+const orbit = Anek_Latin({
+	//
+	preload: false,
+	weight: ["400"],
+});
 
 export const metadata = {
 	title: "Comet Car",
@@ -15,7 +21,23 @@ export default function RootLayout({
 }) {
 	return (
 		<html lang="kr">
-			<body className={inter.className}>{children}</body>
+			<div>
+				<body className={orbit.className}>
+					<div className="fixed inset-0 bg-grayish">
+						<div className="max-w-5xl w-full h-full mx-auto bg-cgray"></div>
+					</div>
+					<main className="flex relative">
+						<div className="flex flex-col w-full max-w-5xl mx-auto">
+							<Header />
+							<div className="flex">
+								<SideBar />
+								<div className="">{children}</div>
+							</div>
+							<footer>footer</footer>
+						</div>
+					</main>
+				</body>
+			</div>
 		</html>
 	);
 }

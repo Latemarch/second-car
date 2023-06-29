@@ -1,0 +1,2311 @@
+{
+	"Count": 14367,
+	"SearchResults": [
+		{
+			"Id": "35115354",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture09/pic3509/35098292_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture09/pic3509/35098292_001.jpg",
+					"updatedDate": "2023-05-23T08:18:13Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture09/pic3509/35098292_003.jpg",
+					"updatedDate": "2023-05-23T08:18:13Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture09/pic3509/35098292_004.jpg",
+					"updatedDate": "2023-05-23T08:18:13Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture09/pic3509/35098292_007.jpg",
+					"updatedDate": "2023-05-23T08:18:13Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "제네시스",
+			"Model": "EQ900",
+			"Badge": "5.0 GDI AWD",
+			"BadgeDetail": "프레스티지",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201711,
+			"FormYear": "2018",
+			"Mileage": 131144,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 2950,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:59.000 +09"
+		},
+		{
+			"Id": "35031973",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture02/pic3502/35021756_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture02/pic3502/35021756_001.jpg",
+					"updatedDate": "2023-05-12T00:26:13Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture02/pic3502/35021756_003.jpg",
+					"updatedDate": "2023-05-12T00:26:13Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture02/pic3502/35021756_004.jpg",
+					"updatedDate": "2023-05-12T00:26:13Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture02/pic3502/35021756_007.jpg",
+					"updatedDate": "2023-05-12T00:26:13Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "올 뉴 K7",
+			"Badge": "2.4 GDI 리미티드",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201712,
+			"FormYear": "2017",
+			"Mileage": 96594,
+			"HomeServiceVerification": "Y",
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 1830,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:59.000 +09"
+		},
+		{
+			"Id": "35215284",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture04/pic3514/35140673_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture04/pic3514/35140673_001.jpg",
+					"updatedDate": "2023-05-30T00:08:56Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture04/pic3514/35140673_003.jpg",
+					"updatedDate": "2023-05-30T00:08:56Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture04/pic3514/35140673_004.jpg",
+					"updatedDate": "2023-05-30T00:08:56Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture04/pic3514/35140673_007.jpg",
+					"updatedDate": "2023-05-30T00:08:56Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "올 뉴 K7 하이브리드",
+			"Badge": "노블레스",
+			"Transmission": "오토",
+			"FuelType": "가솔린+전기",
+			"Year": 201805,
+			"FormYear": "2018",
+			"Mileage": 73455,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 2099,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:59.000 +09"
+		},
+		{
+			"Id": "35215153",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture10/pic3500/35002874_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture10/pic3500/35002874_001.jpg",
+					"updatedDate": "2023-05-10T01:26:25Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture10/pic3500/35002874_003.jpg",
+					"updatedDate": "2023-05-10T01:26:25Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture10/pic3500/35002874_004.jpg",
+					"updatedDate": "2023-05-10T01:26:25Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture10/pic3500/35002874_007.jpg",
+					"updatedDate": "2023-05-10T01:26:25Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "스타리아",
+			"Badge": "L3.5 카고 5인승",
+			"BadgeDetail": "모던",
+			"Transmission": "오토",
+			"FuelType": "LPG(일반인 구입)",
+			"Year": 202201,
+			"FormYear": "2022",
+			"Mileage": 35006,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 3050,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:59.000 +09"
+		},
+		{
+			"Id": "35295741",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture08/pic3528/35280262_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture08/pic3528/35280262_001.jpg",
+					"updatedDate": "2023-06-16T07:26:13Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture08/pic3528/35280262_003.jpg",
+					"updatedDate": "2023-06-16T07:26:13Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture08/pic3528/35280262_004.jpg",
+					"updatedDate": "2023-06-16T07:26:13Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture08/pic3528/35280262_007.jpg",
+					"updatedDate": "2023-06-16T07:26:13Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "K8",
+			"Badge": "2.5 가솔린 2WD",
+			"BadgeDetail": "시그니처",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202203,
+			"FormYear": "2022",
+			"Mileage": 29297,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 3899,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:59.000 +09"
+		},
+		{
+			"Id": "35341305",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture03/pic3533/35331568_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture03/pic3533/35331568_001.jpg",
+					"updatedDate": "2023-06-23T02:25:25Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture03/pic3533/35331568_003.jpg",
+					"updatedDate": "2023-06-23T02:25:25Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture03/pic3533/35331568_004.jpg",
+					"updatedDate": "2023-06-23T02:25:25Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture03/pic3533/35331568_007.jpg",
+					"updatedDate": "2023-06-23T02:25:25Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "아반떼 (CN7)",
+			"Badge": "1.6 터보 N Line",
+			"BadgeDetail": "인스퍼레이션",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202105,
+			"FormYear": "2021",
+			"Mileage": 27178,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 2499,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:59.000 +09"
+		},
+		{
+			"Id": "35340426",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture03/pic3533/35339247_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture03/pic3533/35339247_001.jpg",
+					"updatedDate": "2023-06-23T01:26:21Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture03/pic3533/35339247_003.jpg",
+					"updatedDate": "2023-06-23T01:26:21Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture03/pic3533/35339247_004.jpg",
+					"updatedDate": "2023-06-23T01:26:21Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture03/pic3533/35339247_007.jpg",
+					"updatedDate": "2023-06-23T01:26:21Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "LF 쏘나타",
+			"Badge": "LPI 프리미엄 스페셜",
+			"Transmission": "오토",
+			"FuelType": "LPG(일반인 구입)",
+			"Year": 201504,
+			"FormYear": "2015",
+			"Mileage": 110021,
+			"AdWords": "&#128293;YouTube고준용&#128293;풀옵션(썬루프만없음)&#128293;연비최강lpg&#128293;",
+			"Hotmark": "04;10;14",
+			"HomeServiceVerification": "Y",
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 1099,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:59.000 +09"
+		},
+		{
+			"Id": "35330826",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture02/pic3532/35325426_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture02/pic3532/35325426_001.jpg",
+					"updatedDate": "2023-06-22T00:26:20Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture02/pic3532/35325426_003.jpg",
+					"updatedDate": "2023-06-22T00:26:20Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture02/pic3532/35325426_004.jpg",
+					"updatedDate": "2023-06-22T00:26:20Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture02/pic3532/35325426_007.jpg",
+					"updatedDate": "2023-06-22T00:26:20Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "K5 3세대",
+			"Badge": "2.0 LPI(렌터카용)",
+			"BadgeDetail": "트렌디",
+			"Transmission": "오토",
+			"FuelType": "LPG(일반인 구입)",
+			"Year": 202007,
+			"FormYear": "2020",
+			"Mileage": 43662,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 2230,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:59.000 +09"
+		},
+		{
+			"Id": "35322661",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture01/pic3531/35313423_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture01/pic3531/35313423_001.jpg",
+					"updatedDate": "2023-06-21T01:14:22Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture01/pic3531/35313423_003.jpg",
+					"updatedDate": "2023-06-21T01:14:22Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture01/pic3531/35313423_004.jpg",
+					"updatedDate": "2023-06-21T01:14:22Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture01/pic3531/35313423_007.jpg",
+					"updatedDate": "2023-06-21T01:14:22Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "더 뉴 기아 레이",
+			"Badge": "프레스티지",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202303,
+			"FormYear": "2023",
+			"Mileage": 2005,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 1650,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:59.000 +09"
+		},
+		{
+			"Id": "35362584",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture05/pic3535/35352446_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture05/pic3535/35352446_001.jpg",
+					"updatedDate": "2023-06-27T01:25:44Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture05/pic3535/35352446_003.jpg",
+					"updatedDate": "2023-06-27T01:25:44Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture05/pic3535/35352446_004.jpg",
+					"updatedDate": "2023-06-27T01:25:44Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture05/pic3535/35352446_007.jpg",
+					"updatedDate": "2023-06-27T01:25:44Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "K7 프리미어",
+			"Badge": "2.5 GDI 노블레스",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201911,
+			"FormYear": "2020",
+			"Mileage": 35727,
+			"AdWords": "엔카진단/완전무사고/무칠/썬빠진풀옵/브라운시트/탁송가능",
+			"Hotmark": "14;19;24",
+			"HomeServiceVerification": "Y",
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 2990,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:59.000 +09"
+		},
+		{
+			"Id": "35382231",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture07/pic3537/35373192_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture07/pic3537/35373192_001.jpg",
+					"updatedDate": "2023-06-29T01:26:22Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture07/pic3537/35373192_003.jpg",
+					"updatedDate": "2023-06-29T01:26:22Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture07/pic3537/35373192_004.jpg",
+					"updatedDate": "2023-06-29T01:26:22Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture07/pic3537/35373192_007.jpg",
+					"updatedDate": "2023-06-29T01:26:22Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "팰리세이드",
+			"Badge": "디젤 2.2 4WD",
+			"BadgeDetail": "익스클루시브",
+			"Transmission": "오토",
+			"FuelType": "디젤",
+			"Year": 201902,
+			"FormYear": "2019",
+			"Mileage": 72148,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 3450,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:59.000 +09"
+		},
+		{
+			"Id": "35342468",
+			"Separation": ["B"],
+			"Trust": [],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture04/pic3534/35342468_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture04/pic3534/35342468_001.jpg",
+					"updatedDate": "2023-06-23T04:26:06Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture04/pic3534/35342468_003.jpg",
+					"updatedDate": "2023-06-23T04:26:06Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture04/pic3534/35342468_004.jpg",
+					"updatedDate": "2023-06-23T04:26:06Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture04/pic3534/35342468_007.jpg",
+					"updatedDate": "2023-06-23T04:26:06Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "제네시스",
+			"Model": "G80",
+			"Badge": "3.8 GDI AWD",
+			"BadgeDetail": "프리미엄 럭셔리",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201701,
+			"FormYear": "2017",
+			"Mileage": 109013,
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 2390,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:43.000 +09"
+		},
+		{
+			"Id": "35386154",
+			"Separation": ["B"],
+			"Trust": [],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture08/pic3538/35386154_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture08/pic3538/35386154_001.jpg",
+					"updatedDate": "2023-06-29T06:53:16Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture08/pic3538/35386154_003.jpg",
+					"updatedDate": "2023-06-29T06:53:16Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture08/pic3538/35386154_004.jpg",
+					"updatedDate": "2023-06-29T06:53:16Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture08/pic3538/35386154_007.jpg",
+					"updatedDate": "2023-06-29T06:53:16Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "르노코리아(삼성)",
+			"Model": "All New SM7",
+			"Badge": "LE",
+			"BadgeDetail": "기본형",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201108,
+			"FormYear": "2012",
+			"Mileage": 114873,
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 490,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:43.000 +09"
+		},
+		{
+			"Id": "35383568",
+			"Separation": ["B"],
+			"Trust": [],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture08/pic3538/35383568_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture08/pic3538/35383568_001.jpg",
+					"updatedDate": "2023-06-29T07:19:21Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture08/pic3538/35383568_003.jpg",
+					"updatedDate": "2023-06-29T07:19:21Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture08/pic3538/35383568_004.jpg",
+					"updatedDate": "2023-06-29T07:19:21Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture08/pic3538/35383568_007.jpg",
+					"updatedDate": "2023-06-29T07:19:21Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "제네시스",
+			"Badge": "BH330 프리미엄",
+			"BadgeDetail": "기본형",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201210,
+			"FormYear": "2013",
+			"Mileage": 120592,
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 990,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:43.000 +09"
+		},
+		{
+			"Id": "35174089",
+			"Separation": ["B"],
+			"Trust": [],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture07/pic3517/35174089_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture07/pic3517/35174089_001.jpg",
+					"updatedDate": "2023-05-31T07:09:01Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture07/pic3517/35174089_003.jpg",
+					"updatedDate": "2023-05-31T07:09:01Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture07/pic3517/35174089_004.jpg",
+					"updatedDate": "2023-05-31T07:09:01Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture07/pic3517/35174089_007.jpg",
+					"updatedDate": "2023-05-31T07:09:01Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "싼타페 CM",
+			"Badge": "2WD(2.0 e-VGT) MLX",
+			"BadgeDetail": "럭셔리",
+			"Transmission": "오토",
+			"FuelType": "디젤",
+			"Year": 201106,
+			"FormYear": "2011",
+			"Mileage": 176013,
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 520,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:43.000 +09"
+		},
+		{
+			"Id": "35361484",
+			"Separation": ["B"],
+			"Trust": [],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture06/pic3536/35361484_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture06/pic3536/35361484_001.jpg",
+					"updatedDate": "2023-06-27T00:06:10Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture06/pic3536/35361484_003.jpg",
+					"updatedDate": "2023-06-27T00:06:10Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture06/pic3536/35361484_004.jpg",
+					"updatedDate": "2023-06-27T00:06:10Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture06/pic3536/35361484_007.jpg",
+					"updatedDate": "2023-06-27T00:06:10Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "아반떼 MD",
+			"Badge": "M16 GDI 프리미어",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201205,
+			"FormYear": "2012",
+			"Mileage": 37958,
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 670,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:43.000 +09"
+		},
+		{
+			"Id": "35245389",
+			"Separation": ["B"],
+			"Trust": [],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture04/pic3524/35245389_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture04/pic3524/35245389_001.jpg",
+					"updatedDate": "2023-06-10T04:11:17Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture04/pic3524/35245389_003.jpg",
+					"updatedDate": "2023-06-10T04:11:17Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture04/pic3524/35245389_004.jpg",
+					"updatedDate": "2023-06-10T04:11:17Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture04/pic3524/35245389_007.jpg",
+					"updatedDate": "2023-06-10T04:11:17Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "올 뉴 K3",
+			"Badge": "럭셔리",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201902,
+			"FormYear": "2019",
+			"Mileage": 38792,
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 1530,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:43.000 +09"
+		},
+		{
+			"Id": "35304825",
+			"Separation": ["B"],
+			"Trust": [],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture10/pic3530/35304825_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture10/pic3530/35304825_001.jpg",
+					"updatedDate": "2023-06-19T02:02:40Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture10/pic3530/35304825_003.jpg",
+					"updatedDate": "2023-06-19T02:02:40Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture10/pic3530/35304825_004.jpg",
+					"updatedDate": "2023-06-19T02:02:40Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture10/pic3530/35304825_007.jpg",
+					"updatedDate": "2023-06-19T02:02:40Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "스포티지 R",
+			"Badge": "디젤 2WD TLX",
+			"BadgeDetail": "최고급형",
+			"Transmission": "오토",
+			"FuelType": "디젤",
+			"Year": 201209,
+			"FormYear": "2013",
+			"Mileage": 120952,
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 690,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:43.000 +09"
+		},
+		{
+			"Id": "35288178",
+			"Separation": ["B"],
+			"Trust": [],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture08/pic3528/35288178_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture08/pic3528/35288178_001.jpg",
+					"updatedDate": "2023-06-15T09:28:13Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture08/pic3528/35288178_003.jpg",
+					"updatedDate": "2023-06-15T09:28:13Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture08/pic3528/35288178_004.jpg",
+					"updatedDate": "2023-06-15T09:28:13Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture08/pic3528/35288178_007.jpg",
+					"updatedDate": "2023-06-15T09:28:13Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "더 뉴 아반떼",
+			"Badge": "1.6 GDi 스타일",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201402,
+			"FormYear": "2014",
+			"Mileage": 89111,
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 660,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:43.000 +09"
+		},
+		{
+			"Id": "35185674",
+			"Separation": ["B"],
+			"Trust": [],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture08/pic3518/35185674_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture08/pic3518/35185674_001.jpg",
+					"updatedDate": "2023-06-01T07:59:24Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture08/pic3518/35185674_003.jpg",
+					"updatedDate": "2023-06-01T07:59:24Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture08/pic3518/35185674_004.jpg",
+					"updatedDate": "2023-06-01T07:59:24Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture08/pic3518/35185674_007.jpg",
+					"updatedDate": "2023-06-01T07:59:24Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "싼타페 DM",
+			"Badge": "디젤(e-VGT) 2.2 4WD 모던",
+			"Transmission": "오토",
+			"FuelType": "디젤",
+			"Year": 201206,
+			"FormYear": "2013",
+			"Mileage": 205766,
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 790,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:43.000 +09"
+		},
+		{
+			"Id": "35123772",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture10/pic3510/35108353_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture10/pic3510/35108353_001.jpg",
+					"updatedDate": "2023-05-24T06:38:08Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture10/pic3510/35108353_003.jpg",
+					"updatedDate": "2023-05-24T06:38:08Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture10/pic3510/35108353_004.jpg",
+					"updatedDate": "2023-05-24T06:38:08Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture10/pic3510/35108353_007.jpg",
+					"updatedDate": "2023-05-24T06:38:08Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "쉐보레(GM대우)",
+			"Model": "더 뉴 스파크",
+			"Badge": "마이핏 에디션",
+			"BadgeDetail": "(세부등급 없음)",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202011,
+			"FormYear": "2021",
+			"Mileage": 28958,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 1099,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:10.000 +09"
+		},
+		{
+			"Id": "35038524",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture02/pic3502/35021683_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture02/pic3502/35021683_001.jpg",
+					"updatedDate": "2023-05-12T05:29:34Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture02/pic3502/35021683_003.jpg",
+					"updatedDate": "2023-05-12T05:29:34Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture02/pic3502/35021683_004.jpg",
+					"updatedDate": "2023-05-12T05:29:34Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture02/pic3502/35021683_007.jpg",
+					"updatedDate": "2023-05-12T05:29:34Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "쏘렌토 4세대",
+			"Badge": "HEV 1.6 2WD",
+			"BadgeDetail": "시그니처",
+			"Transmission": "오토",
+			"FuelType": "가솔린+전기",
+			"Year": 202101,
+			"FormYear": "2021",
+			"Mileage": 31824,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 3949,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:10.000 +09"
+		},
+		{
+			"Id": "35294544",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture06/pic3526/35260182_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture06/pic3526/35260182_001.jpg",
+					"updatedDate": "2023-06-13T05:18:14Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture06/pic3526/35260182_003.jpg",
+					"updatedDate": "2023-06-13T05:18:14Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture06/pic3526/35260182_004.jpg",
+					"updatedDate": "2023-06-13T05:18:14Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture06/pic3526/35260182_007.jpg",
+					"updatedDate": "2023-06-13T05:18:14Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "K8",
+			"Badge": "2.5 가솔린 2WD",
+			"BadgeDetail": "노블레스",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202105,
+			"FormYear": "2022",
+			"Mileage": 22181,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 3499,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:10.000 +09"
+		},
+		{
+			"Id": "35294541",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture02/pic3522/35223583_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture02/pic3522/35223583_001.jpg",
+					"updatedDate": "2023-06-08T00:35:32Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture02/pic3522/35223583_003.jpg",
+					"updatedDate": "2023-06-08T00:35:32Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture02/pic3522/35223583_004.jpg",
+					"updatedDate": "2023-06-08T00:35:32Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture02/pic3522/35223583_007.jpg",
+					"updatedDate": "2023-06-08T00:35:32Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "더 뉴 쏘렌토",
+			"Badge": "디젤 2.0 2WD",
+			"BadgeDetail": "프레스티지",
+			"Transmission": "오토",
+			"FuelType": "디젤",
+			"Year": 201811,
+			"FormYear": "2019",
+			"Mileage": 58765,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 2250,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:10.000 +09"
+		},
+		{
+			"Id": "35294545",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture07/pic3527/35275895_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture07/pic3527/35275895_001.jpg",
+					"updatedDate": "2023-06-14T07:24:38Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture07/pic3527/35275895_003.jpg",
+					"updatedDate": "2023-06-14T07:24:38Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture07/pic3527/35275895_004.jpg",
+					"updatedDate": "2023-06-14T07:24:38Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture07/pic3527/35275895_007.jpg",
+					"updatedDate": "2023-06-14T07:24:38Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "더 뉴 쏘렌토",
+			"Badge": "가솔린 2.0 터보 2WD",
+			"BadgeDetail": "마스터 스페셜",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201905,
+			"FormYear": "2020",
+			"Mileage": 34157,
+			"HomeServiceVerification": "Y",
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 2899,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:10.000 +09"
+		},
+		{
+			"Id": "35225946",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Record"],
+			"Photo": "/carpicture01/pic3521/35213795_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture01/pic3521/35213795_001.jpg",
+					"updatedDate": "2023-06-08T00:45:34Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture01/pic3521/35213795_003.jpg",
+					"updatedDate": "2023-06-08T00:45:34Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture01/pic3521/35213795_004.jpg",
+					"updatedDate": "2023-06-08T00:45:34Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture01/pic3521/35213795_007.jpg",
+					"updatedDate": "2023-06-08T00:45:34Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "KG모빌리티(쌍용)",
+			"Model": "더 뉴 렉스턴 스포츠",
+			"Badge": "디젤 2.2 4WD",
+			"BadgeDetail": "프레스티지",
+			"Transmission": "오토",
+			"FuelType": "디젤",
+			"Year": 202210,
+			"FormYear": "2023",
+			"Mileage": 16057,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 2790,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:02.000 +09"
+		},
+		{
+			"Id": "35085700",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture07/pic3507/35070622_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture07/pic3507/35070622_001.jpg",
+					"updatedDate": "2023-05-17T08:38:31Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture07/pic3507/35070622_003.jpg",
+					"updatedDate": "2023-05-17T08:38:31Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture07/pic3507/35070622_004.jpg",
+					"updatedDate": "2023-05-17T08:38:31Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture07/pic3507/35070622_007.jpg",
+					"updatedDate": "2023-05-17T08:38:31Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "카니발 4세대",
+			"Badge": "가솔린 9인승 노블레스",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202207,
+			"FormYear": "2023",
+			"Mileage": 17979,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 3850,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:02.000 +09"
+		},
+		{
+			"Id": "35038895",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Record"],
+			"Photo": "/carpicture02/pic3502/35021660_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture02/pic3502/35021660_001.jpg",
+					"updatedDate": "2023-05-12T08:33:30Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture02/pic3502/35021660_003.jpg",
+					"updatedDate": "2023-05-12T08:33:30Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture02/pic3502/35021660_004.jpg",
+					"updatedDate": "2023-05-12T08:33:30Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture02/pic3502/35021660_007.jpg",
+					"updatedDate": "2023-05-12T08:33:30Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "KG모빌리티(쌍용)",
+			"Model": "토레스",
+			"Badge": "가솔린 1.5 2WD",
+			"BadgeDetail": "T7",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202210,
+			"FormYear": "2023",
+			"Mileage": 2448,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 3130,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:01.000 +09"
+		},
+		{
+			"Id": "35222946",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture03/pic3513/35139895_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture03/pic3513/35139895_001.jpg",
+					"updatedDate": "2023-05-26T07:59:16Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture03/pic3513/35139895_003.jpg",
+					"updatedDate": "2023-05-26T07:59:16Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture03/pic3513/35139895_004.jpg",
+					"updatedDate": "2023-05-26T07:59:16Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture03/pic3513/35139895_007.jpg",
+					"updatedDate": "2023-05-26T07:59:16Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "팰리세이드",
+			"Badge": "가솔린 3.8 2WD",
+			"BadgeDetail": "캘리그래피",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202103,
+			"FormYear": "2021",
+			"Mileage": 93806,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 3390,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:01.000 +09"
+		},
+		{
+			"Id": "34825436",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture02/pic3482/34820301_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture02/pic3482/34820301_001.jpg",
+					"updatedDate": "2023-04-12T08:22:27Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture02/pic3482/34820301_003.jpg",
+					"updatedDate": "2023-04-12T08:22:27Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture02/pic3482/34820301_004.jpg",
+					"updatedDate": "2023-04-12T08:22:27Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture02/pic3482/34820301_007.jpg",
+					"updatedDate": "2023-04-12T08:22:27Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "쏘렌토 4세대",
+			"Badge": "가솔린 2.5T 2WD",
+			"BadgeDetail": "노블레스",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202212,
+			"FormYear": "2023",
+			"Mileage": 4591,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 3890,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:01.000 +09"
+		},
+		{
+			"Id": "35106070",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Record"],
+			"Photo": "/carpicture09/pic3509/35098309_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture09/pic3509/35098309_001.jpg",
+					"updatedDate": "2023-05-22T08:41:02Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture09/pic3509/35098309_003.jpg",
+					"updatedDate": "2023-05-22T08:41:02Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture09/pic3509/35098309_004.jpg",
+					"updatedDate": "2023-05-22T08:41:02Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture09/pic3509/35098309_007.jpg",
+					"updatedDate": "2023-05-22T08:41:02Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "그랜저 (GN7)",
+			"Badge": "2.5 가솔린 2WD",
+			"BadgeDetail": "익스클루시브",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202302,
+			"FormYear": "2023",
+			"Mileage": 3528,
+			"HomeServiceVerification": "Y",
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 4690,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:01.000 +09"
+		},
+		{
+			"Id": "35130433",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Record"],
+			"Photo": "/carpicture02/pic3512/35129246_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture02/pic3512/35129246_001.jpg",
+					"updatedDate": "2023-05-25T02:31:45Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture02/pic3512/35129246_003.jpg",
+					"updatedDate": "2023-05-25T02:31:45Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture02/pic3512/35129246_004.jpg",
+					"updatedDate": "2023-05-25T02:31:45Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture02/pic3512/35129246_007.jpg",
+					"updatedDate": "2023-05-25T02:31:45Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "더 뉴 싼타페",
+			"Badge": "가솔린 2.5T 2WD",
+			"BadgeDetail": "프레스티지",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202301,
+			"FormYear": "2023",
+			"Mileage": 17789,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 3850,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:01.000 +09"
+		},
+		{
+			"Id": "34693075",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture09/pic3469/34691290_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture09/pic3469/34691290_001.jpg",
+					"updatedDate": "2023-03-27T05:09:36Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture09/pic3469/34691290_003.jpg",
+					"updatedDate": "2023-03-27T05:09:36Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture09/pic3469/34691290_004.jpg",
+					"updatedDate": "2023-03-27T05:09:36Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture09/pic3469/34691290_007.jpg",
+					"updatedDate": "2023-03-27T05:09:36Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "더 뉴 K9 2세대",
+			"Badge": "3.8 GDI AWD",
+			"BadgeDetail": "베스트 셀렉션 Ⅰ",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202212,
+			"FormYear": "2023",
+			"Mileage": 1203,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 5990,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:01.000 +09"
+		},
+		{
+			"Id": "35355934",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture03/pic3533/35339230_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture03/pic3533/35339230_001.jpg",
+					"updatedDate": "2023-06-26T04:59:23Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture03/pic3533/35339230_003.jpg",
+					"updatedDate": "2023-06-26T04:59:23Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture03/pic3533/35339230_004.jpg",
+					"updatedDate": "2023-06-26T04:59:23Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture03/pic3533/35339230_007.jpg",
+					"updatedDate": "2023-06-26T04:59:23Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "아반떼 하이브리드 (CN7)",
+			"Badge": "인스퍼레이션",
+			"Transmission": "오토",
+			"FuelType": "가솔린+전기",
+			"Year": 202009,
+			"FormYear": "2021",
+			"Mileage": 45498,
+			"HomeServiceVerification": "Y",
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 2550,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:01.000 +09"
+		},
+		{
+			"Id": "35352400",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Record"],
+			"Photo": "/carpicture04/pic3534/35344929_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture04/pic3534/35344929_001.jpg",
+					"updatedDate": "2023-06-26T00:18:34Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture04/pic3534/35344929_003.jpg",
+					"updatedDate": "2023-06-26T00:18:34Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture04/pic3534/35344929_004.jpg",
+					"updatedDate": "2023-06-26T00:18:34Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture04/pic3534/35344929_007.jpg",
+					"updatedDate": "2023-06-26T00:18:34Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "코나 (SX2)",
+			"Badge": "가솔린 1.6 터보 2WD",
+			"BadgeDetail": "인스퍼레이션",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202303,
+			"FormYear": "2023",
+			"Mileage": 1377,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 3250,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:01.000 +09"
+		},
+		{
+			"Id": "34561830",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture06/pic3456/34561463_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture06/pic3456/34561463_001.jpg",
+					"updatedDate": "2023-03-10T00:39:52Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture06/pic3456/34561463_003.jpg",
+					"updatedDate": "2023-03-10T00:39:52Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture06/pic3456/34561463_004.jpg",
+					"updatedDate": "2023-03-10T00:39:52Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture06/pic3456/34561463_007.jpg",
+					"updatedDate": "2023-03-10T00:39:52Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "K8",
+			"Badge": "2.5 가솔린 2WD",
+			"BadgeDetail": "노블레스",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202208,
+			"FormYear": "2023",
+			"Mileage": 10787,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 3890,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:26:01.000 +09"
+		},
+		{
+			"Id": "34389871",
+			"Separation": ["B"],
+			"Trust": ["Compensate"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture08/pic3438/34389871_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture08/pic3438/34389871_001.jpg",
+					"updatedDate": "2023-02-14T07:38:23Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture08/pic3438/34389871_003.jpg",
+					"updatedDate": "2023-02-14T07:38:23Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture08/pic3438/34389871_004.jpg",
+					"updatedDate": "2023-02-14T07:38:23Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture08/pic3438/34389871_007.jpg",
+					"updatedDate": "2023-02-14T07:38:23Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "KG모빌리티(쌍용)",
+			"Model": "코란도 스포츠",
+			"Badge": "CX7 4WD",
+			"BadgeDetail": "패션",
+			"Transmission": "오토",
+			"FuelType": "디젤",
+			"Year": 201208,
+			"FormYear": "2012",
+			"Mileage": 193254,
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 560,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		},
+		{
+			"Id": "35215193",
+			"Separation": ["B"],
+			"Trust": [],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture01/pic3521/35215193_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture01/pic3521/35215193_001.jpg",
+					"updatedDate": "2023-06-07T01:25:47Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture01/pic3521/35215193_003.jpg",
+					"updatedDate": "2023-06-07T01:25:47Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture01/pic3521/35215193_004.jpg",
+					"updatedDate": "2023-06-07T01:25:47Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture01/pic3521/35215193_007.jpg",
+					"updatedDate": "2023-06-07T01:25:47Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "KG모빌리티(쌍용)",
+			"Model": "티볼리 에어",
+			"Badge": "디젤 IX 4WD",
+			"Transmission": "오토",
+			"FuelType": "디젤",
+			"Year": 201608,
+			"FormYear": "2016",
+			"Mileage": 114515,
+			"Powerpack": "무사고/1인신조/썬루프/플러스패키지/네비후카/전국최저가",
+			"Hotmark": "10;14;20",
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 930,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		},
+		{
+			"Id": "35018506",
+			"Separation": ["B"],
+			"Trust": ["Compensate"],
+			"Condition": ["Record"],
+			"Photo": "/carpicture01/pic3501/35018506_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture01/pic3501/35018506_001.jpg",
+					"updatedDate": "2023-05-10T07:26:25Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture01/pic3501/35018506_003.jpg",
+					"updatedDate": "2023-05-10T07:26:25Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture01/pic3501/35018506_004.jpg",
+					"updatedDate": "2023-05-10T07:26:25Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture01/pic3501/35018506_007.jpg",
+					"updatedDate": "2023-05-10T07:26:25Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "KG모빌리티(쌍용)",
+			"Model": "티볼리",
+			"Badge": "디젤 엣지 에디션 2WD",
+			"Transmission": "오토",
+			"FuelType": "디젤",
+			"Year": 201706,
+			"FormYear": "2017",
+			"Mileage": 98066,
+			"Powerpack": "엔카 실촬영",
+			"Hotmark": "14;15;13",
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 850,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		},
+		{
+			"Id": "34675782",
+			"Separation": ["B"],
+			"Trust": [],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture07/pic3467/34675782_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture07/pic3467/34675782_001.jpg",
+					"updatedDate": "2023-03-24T23:21:22Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture07/pic3467/34675782_003.jpg",
+					"updatedDate": "2023-03-24T23:21:22Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture07/pic3467/34675782_004.jpg",
+					"updatedDate": "2023-03-24T23:21:22Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture07/pic3467/34675782_007.jpg",
+					"updatedDate": "2023-03-24T23:21:22Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "올 뉴 투싼",
+			"Badge": "디젤 2.0 2WD",
+			"BadgeDetail": "모던",
+			"Transmission": "오토",
+			"FuelType": "디젤",
+			"Year": 201903,
+			"FormYear": "2019",
+			"Mileage": 18000,
+			"AdWords": "짧은실주행,스마트센스,정품내비,하이패스,블랙박스,신차느낌",
+			"Hotmark": "02;19;28",
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 1420,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		},
+		{
+			"Id": "35256565",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture09/pic3489/34891353_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture09/pic3489/34891353_001.jpg",
+					"updatedDate": "2023-04-21T07:08:23Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture09/pic3489/34891353_003.jpg",
+					"updatedDate": "2023-04-21T07:08:23Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture09/pic3489/34891353_004.jpg",
+					"updatedDate": "2023-04-21T07:08:23Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture09/pic3489/34891353_007.jpg",
+					"updatedDate": "2023-04-21T07:08:23Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "쏠라티",
+			"Badge": "캠핑카",
+			"Transmission": "오토",
+			"FuelType": "디젤",
+			"Year": 201707,
+			"FormYear": "2018",
+			"Mileage": 55593,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 5250,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		},
+		{
+			"Id": "35285009",
+			"Separation": ["B"],
+			"Trust": ["Warranty", "ExtendWarranty"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture08/pic3528/35285009_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture08/pic3528/35285009_001.jpg",
+					"updatedDate": "2023-06-16T00:25:49Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture08/pic3528/35285009_003.jpg",
+					"updatedDate": "2023-06-16T00:25:49Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture08/pic3528/35285009_004.jpg",
+					"updatedDate": "2023-06-16T00:25:49Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture08/pic3528/35285009_007.jpg",
+					"updatedDate": "2023-06-16T00:25:49Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "더 뉴 레이",
+			"Badge": "프레스티지",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202006,
+			"FormYear": "2021",
+			"Mileage": 53388,
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 1250,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		},
+		{
+			"Id": "35361694",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture10/pic3530/35304408_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture10/pic3530/35304408_001.jpg",
+					"updatedDate": "2023-06-20T02:25:27Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture10/pic3530/35304408_003.jpg",
+					"updatedDate": "2023-06-20T02:25:27Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture10/pic3530/35304408_004.jpg",
+					"updatedDate": "2023-06-20T02:25:27Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture10/pic3530/35304408_007.jpg",
+					"updatedDate": "2023-06-20T02:25:27Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "쉐보레(GM대우)",
+			"Model": "더 넥스트 스파크",
+			"Badge": "LT",
+			"BadgeDetail": "플러스",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201606,
+			"FormYear": "2016",
+			"Mileage": 43645,
+			"AdWords": "*완무*네비게이션*전자동에어컨*상태최상급*전액할부*24시상담~~",
+			"HomeServiceVerification": "Y",
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 650,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		},
+		{
+			"Id": "35223220",
+			"Separation": ["B"],
+			"Trust": ["HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture06/pic3486/34863556_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture06/pic3486/34863556_001.jpg",
+					"updatedDate": "2023-04-19T05:24:17Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture06/pic3486/34863556_003.jpg",
+					"updatedDate": "2023-04-19T05:24:17Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture06/pic3486/34863556_004.jpg",
+					"updatedDate": "2023-04-19T05:24:17Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture06/pic3486/34863556_007.jpg",
+					"updatedDate": "2023-04-19T05:24:17Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "아반떼 AD",
+			"Badge": "1.6 GDI 밸류 플러스",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201702,
+			"FormYear": "2017",
+			"Mileage": 99092,
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 999,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		},
+		{
+			"Id": "35313423",
+			"Separation": ["B"],
+			"Trust": ["Warranty", "ExtendWarranty"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture01/pic3531/35313423_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture01/pic3531/35313423_001.jpg",
+					"updatedDate": "2023-06-21T01:14:22Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture01/pic3531/35313423_003.jpg",
+					"updatedDate": "2023-06-21T01:14:22Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture01/pic3531/35313423_004.jpg",
+					"updatedDate": "2023-06-21T01:14:22Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture01/pic3531/35313423_007.jpg",
+					"updatedDate": "2023-06-21T01:14:22Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "더 뉴 기아 레이",
+			"Badge": "프레스티지",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202303,
+			"FormYear": "2023",
+			"Mileage": 2005,
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 1650,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		},
+		{
+			"Id": "35367351",
+			"Separation": ["B"],
+			"Trust": [],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture06/pic3536/35367351_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture06/pic3536/35367351_001.jpg",
+					"updatedDate": "2023-06-27T06:24:50Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture06/pic3536/35367351_003.jpg",
+					"updatedDate": "2023-06-27T06:24:50Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture06/pic3536/35367351_004.jpg",
+					"updatedDate": "2023-06-27T06:24:50Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture06/pic3536/35367351_007.jpg",
+					"updatedDate": "2023-06-27T06:24:50Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "쏘나타 뉴 라이즈",
+			"Badge": "2.0 스마트",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201801,
+			"FormYear": "2018",
+			"Mileage": 54538,
+			"Powerpack": "완전 무사고 짧은 키로수 컨디션 짱짱",
+			"Hotmark": "02;12;17",
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 1520,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		},
+		{
+			"Id": "35373106",
+			"Separation": ["B"],
+			"Trust": ["ExtendWarranty", "HomeService"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture09/pic3499/34997890_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture09/pic3499/34997890_001.jpg",
+					"updatedDate": "2023-05-08T07:24:34Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture09/pic3499/34997890_003.jpg",
+					"updatedDate": "2023-05-08T07:24:34Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture09/pic3499/34997890_004.jpg",
+					"updatedDate": "2023-05-08T07:24:34Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture09/pic3499/34997890_007.jpg",
+					"updatedDate": "2023-05-08T07:24:34Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "기아",
+			"Model": "더 뉴 레이",
+			"Badge": "프레스티지",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 202003,
+			"FormYear": "2020",
+			"Mileage": 23968,
+			"HomeServiceVerification": "Y",
+			"ServiceCopyCar": "DUPLICATION",
+			"Price": 4444,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		},
+		{
+			"Id": "32878212",
+			"Separation": ["B"],
+			"Trust": ["Compensate"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture07/pic3287/32878212_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture07/pic3287/32878212_001.jpg",
+					"updatedDate": "2022-07-05T06:48:22Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture07/pic3287/32878212_003.jpg",
+					"updatedDate": "2022-07-05T06:48:22Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture07/pic3287/32878212_004.jpg",
+					"updatedDate": "2022-07-05T06:48:22Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture07/pic3287/32878212_007.jpg",
+					"updatedDate": "2022-07-05T06:48:22Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "그랜드 스타렉스",
+			"Badge": "3인승 밴",
+			"BadgeDetail": "CVX 럭셔리",
+			"Transmission": "수동",
+			"FuelType": "디젤",
+			"Year": 201012,
+			"FormYear": "2011",
+			"Mileage": 179119,
+			"Powerpack": "엔카에서 촬영한 100% 실매물 차량입니다.",
+			"Hotmark": "13;14;15",
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 589,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		},
+		{
+			"Id": "35032622",
+			"Separation": ["B"],
+			"Trust": ["Compensate"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture03/pic3503/35032622_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture03/pic3503/35032622_001.jpg",
+					"updatedDate": "2023-05-24T00:56:35Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture03/pic3503/35032622_003.jpg",
+					"updatedDate": "2023-05-24T00:56:35Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture03/pic3503/35032622_004.jpg",
+					"updatedDate": "2023-05-24T00:56:35Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture03/pic3503/35032622_007.jpg",
+					"updatedDate": "2023-05-24T00:56:35Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "제네시스",
+			"Model": "G80",
+			"Badge": "3.8 GDI AWD",
+			"BadgeDetail": "파이니스트",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201804,
+			"FormYear": "2018",
+			"Mileage": 23056,
+			"Powerpack": "★무사고★1인소유!!★완풀차량★베이지시트★실주행거리!!★",
+			"Hotmark": "13;14;15",
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 3350,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		},
+		{
+			"Id": "35276090",
+			"Separation": ["B"],
+			"Trust": ["Warranty", "ExtendWarranty"],
+			"Condition": ["Inspection", "Record"],
+			"Photo": "/carpicture07/pic3527/35276090_",
+			"Photos": [
+				{
+					"type": "001",
+					"location": "/carpicture07/pic3527/35276090_001.jpg",
+					"updatedDate": "2023-06-15T02:17:42Z",
+					"ordering": 1
+				},
+				{
+					"type": "003",
+					"location": "/carpicture07/pic3527/35276090_003.jpg",
+					"updatedDate": "2023-06-15T02:17:42Z",
+					"ordering": 3
+				},
+				{
+					"type": "004",
+					"location": "/carpicture07/pic3527/35276090_004.jpg",
+					"updatedDate": "2023-06-15T02:17:42Z",
+					"ordering": 4
+				},
+				{
+					"type": "007",
+					"location": "/carpicture07/pic3527/35276090_007.jpg",
+					"updatedDate": "2023-06-15T02:17:42Z",
+					"ordering": 7
+				}
+			],
+			"Manufacturer": "현대",
+			"Model": "올 뉴 투싼",
+			"Badge": "가솔린 1.6 터보 2WD",
+			"BadgeDetail": "프리미엄",
+			"Transmission": "오토",
+			"FuelType": "가솔린",
+			"Year": 201910,
+			"FormYear": "2019",
+			"Mileage": 25780,
+			"ServiceCopyCar": "ORIGINAL",
+			"Price": 2380,
+			"OfficeCityState": "경기",
+			"ModifiedDate": "2023-06-29 17:25:59.000 +09"
+		}
+	]
+}
