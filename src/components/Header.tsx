@@ -1,16 +1,22 @@
+import Link from "next/link";
+import SearchInput from "./SearchInput";
+
 export default function Header() {
 	return (
-		<header className="flex min-h-[50px] items-center ">
-			<div className="flex pl-6 w-52 h-full items-center border-b border-r  ">
-				<h1 className="">세계 자동차</h1>
-			</div>
-			<div className="flex grow h-full">
-				<div className="flex w-2/3 h-full items-center pl-6 border-b">
-					search
+		<header className="flex w-full min-h-[50px] items-center z-50 h-16">
+			<div className="flex h-full w-full max-w-5xl m-auto">
+				<div className="flex pl-6 w-52 h-full items-center ">
+					<Link href="/">
+						<h1 className="">세계 자동차</h1>
+					</Link>
 				</div>
-
-				<div className="flex w-2/5 h-full border-l border-b ">
-					<button className="w-40 text-xl font-han">내차 팔기</button>
+				<div className="flex w-full h-full">
+					<div className="flex w-full h-full items-center px-6 ">
+						<SearchInput />
+					</div>
+					<div className="flex w-52 h-full justify-end  pr-6">
+						<button className="text-xl font-han">내차 팔기</button>
+					</div>
 				</div>
 			</div>
 		</header>

@@ -2,6 +2,8 @@ import Header from "@/components/Header";
 import "./globals.css";
 import { Anek_Latin, Orbit } from "next/font/google";
 import SideBar from "@/components/SideBar";
+import Banner from "@/components/Banner";
+import ReduxProvider from "@/redux/ReduxProvider";
 
 const orbit = Anek_Latin({
 	//
@@ -10,7 +12,7 @@ const orbit = Anek_Latin({
 });
 
 export const metadata = {
-	title: "Comet Car",
+	title: "세계 자동차",
 	description: "수원 중고차 매매 플랫폼: 내차팔기, 내차사기, 내차교환",
 };
 
@@ -23,17 +25,18 @@ export default function RootLayout({
 		<html lang="kr">
 			<div>
 				<body className={orbit.className}>
-					<div className="fixed inset-0 bg-grayish">
-						<div className="max-w-5xl w-full h-full mx-auto bg-cgray"></div>
+					<div className="fixed inset-0">
+						<div className="max-w-5xl w-full h-full mx-auto "></div>
 					</div>
 					<main className="flex relative">
 						<div className="flex flex-col w-full max-w-5xl mx-auto">
-							<Header />
-							<div className="flex">
-								<SideBar />
-								<div className="">{children}</div>
-							</div>
-							<footer>footer</footer>
+							<ReduxProvider>
+								<Header />
+								<Banner />
+								<div className="flex">
+									<div className="">{children}</div>
+								</div>
+							</ReduxProvider>
 						</div>
 					</main>
 				</body>
