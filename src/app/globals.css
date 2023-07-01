@@ -10,3 +10,7 @@ h3 {
 p {
 	@apply text-gray-600;
 }
+
+button {
+	flex-shrink: 0;
+}

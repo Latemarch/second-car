@@ -6,7 +6,7 @@ export default function ProductLayout({
 	children: React.ReactNode;
 }) {
 	return (
-		<div className="flex">
+		<div className="flex w-full max-w-7xl mx-auto">
 			<SideBar />
 			<div>{children}</div>
 		</div>

@@ -5,9 +5,7 @@ export default function Manufacturer() {
 	return (
 		<ul className="pt-2">
 			{companies.map((company) => (
-				<li key={company}>
-					<Company company={company} />
-				</li>
+				<Company key={company} company={company} />
 			))}
 		</ul>
 	);

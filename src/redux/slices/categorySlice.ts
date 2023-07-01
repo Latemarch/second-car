@@ -14,6 +14,7 @@ export type Category = {
 	Price: number[];
 	OfficeCityState: string[];
 	ModifiedDate: string[];
+	type: string[];
 };
 const initialState: Category = {
 	Manufacturer: [],
@@ -29,6 +30,7 @@ const initialState: Category = {
 	Price: [],
 	OfficeCityState: [],
 	ModifiedDate: [],
+	type: [],
 };
 
 export const categorySlice = createSlice({

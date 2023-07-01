@@ -9,7 +9,7 @@ export default function ProductCard({ product }: Props) {
 	const { Price, Photo, Year, Manufacturer, Badge, FuelType, Model, Mileage } =
 		product;
 	return (
-		<div className="bg-white  max-w-[400px] drop-shadow-md rounded-lg z-0">
+		<div className="bg-white  max-w-[400px] shadow-md rounded-lg z-0">
 			<div className="flex justify-between items-center"></div>
 			<div className="flex relative">
 				{/*  eslint-disable-next-line @next/next/no-img-element*/}

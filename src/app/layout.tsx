@@ -1,9 +1,9 @@
 import Header from "@/components/Header";
 import "./globals.css";
-import { Anek_Latin, Orbit } from "next/font/google";
-import SideBar from "@/components/SideBar";
-import Banner from "@/components/Banner";
+import { Anek_Latin } from "next/font/google";
 import ReduxProvider from "@/redux/ReduxProvider";
+import Footer from "@/components/Footer";
+import Banner from "@/components/Banner";
 
 const orbit = Anek_Latin({
 	//
@@ -26,19 +26,17 @@ export default function RootLayout({
 			<div>
 				<body className={orbit.className}>
 					<div className="fixed inset-0">
-						<div className="max-w-5xl w-full h-full mx-auto "></div>
+						<div className="max-w-7xl w-full h-full mx-auto "></div>
 					</div>
 					<main className="flex relative">
-						<div className="flex flex-col w-full max-w-5xl mx-auto">
+						<div className="flex flex-col w-full ">
 							<ReduxProvider>
 								<Header />
-								<Banner />
-								<div className="flex">
-									<div className="">{children}</div>
-								</div>
+								<div className="w-full">{children}</div>
 							</ReduxProvider>
 						</div>
 					</main>
+					<Footer />
 				</body>
 			</div>
 		</html>
