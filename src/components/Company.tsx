@@ -24,7 +24,7 @@ export default function Company({ company }: Props) {
 				/>
 				<label
 					htmlFor={company}
-					className="ml-2 text-sm font-medium text-gray-900 "
+					className="ml-1 text-sm font-medium text-gray-900 "
 				>
 					{company}
 				</label>

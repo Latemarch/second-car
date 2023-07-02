@@ -14,6 +14,14 @@ export const getCarList = async () => {
 	return cars.SearchResults;
 };
 
+export const getCarById = async (id: string) => {
+	const filePath = path.join(process.cwd(), "public", "datas", "carList.json");
+	const fileContents = fs.readFileSync(filePath, "utf8");
+	const cars = JSON.parse(fileContents);
+
+	return cars.SearchResults.find((car: any) => car.Id === id);
+};
+
 export function withCommas(number: number) {
 	return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }

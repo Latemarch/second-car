@@ -1,11 +1,11 @@
 import Header from "@/components/Header";
 import "./globals.css";
-import { Anek_Latin } from "next/font/google";
+import { Anek_Latin, Noto_Sans_KR } from "next/font/google";
 import ReduxProvider from "@/redux/ReduxProvider";
 import Footer from "@/components/Footer";
 import Banner from "@/components/Banner";
 
-const orbit = Anek_Latin({
+const orbit = Noto_Sans_KR({
 	//
 	preload: false,
 	weight: ["400"],

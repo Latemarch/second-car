@@ -1,7 +1,7 @@
 export default function Footer() {
 	return (
-		<footer className="bg-zinc-50 border-t mt-8">
-			<div className=" container mx-auto text-left max-w-7xl p-10 ">
+		<footer className="bg-zinc-50 border-t  mt-8">
+			<div className=" container mx-auto text-left max-w-7xl p-4 md:p-10 ">
 				<ul className="flex flex-col ">
 					<li>
 						<a href="#" className="text-gray-600 hover:text-gray-800">
@@ -19,7 +19,7 @@ export default function Footer() {
 						</a>
 					</li>
 					<p className="text-sm text-gray-800 py-4">
-						&copy; {new Date().getFullYear()} Company Name. All Rights Reserved.
+						&copy; {new Date().getFullYear()} World Motors. All Rights Reserved.
 					</p>
 				</ul>
 			</div>

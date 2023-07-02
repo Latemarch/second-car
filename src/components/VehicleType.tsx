@@ -15,7 +15,7 @@ export default function VehicleType({ type }: Props) {
 	};
 	return (
 		<li key={type}>
-			<div className="flex items-center mb-4 ">
+			<div className="flex items-center mb-1 ">
 				<input
 					id={type}
 					type="checkbox"

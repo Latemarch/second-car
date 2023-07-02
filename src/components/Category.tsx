@@ -3,7 +3,7 @@ import { useState } from "react";
 import { FaAngleDown, FaAngleRight } from "react-icons/fa";
 
 const divClass =
-	"flex justify-between items-center min-h-16 gap-4 px-6  p-2 border-b border-x ";
+	"flex justify-between items-center min-h-16 gap-4 px-6  p-2 sm:border-b sm:border-x ";
 type Props = {
 	name: string;
 	children: React.ReactNode;
@@ -15,8 +15,8 @@ export default function Category({ name, children }: Props) {
 			<div className={divClass}>
 				<p>{name}</p>
 				<div
-					className="cursor-pointer"
 					onClick={() => setIsOpen((prev) => !prev)}
+					className="cursor-pointer h-6 w-1/2 items-center justify-end flex"
 				>
 					{isOpen ? <FaAngleDown /> : <FaAngleRight />}
 				</div>
