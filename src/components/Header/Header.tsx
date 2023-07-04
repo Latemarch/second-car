@@ -1,7 +1,7 @@
 import Link from "next/link";
-import SearchInput from "./SearchInput";
 import { BsTelephoneFill } from "react-icons/bs";
 import { RiKakaoTalkFill } from "react-icons/ri";
+import SearchInput from "./SearchInput";
 
 export default function Header() {
 	return (
@@ -21,19 +21,13 @@ export default function Header() {
 						<Link href="/">
 							<h1 className="text-xl">세계 자동차</h1>
 						</Link>
-						{/* <Link href="/products">상품보기</Link> */}
 					</div>
-					{/* <div className="flex h-full"> */}
 					<div className="flex flex-1 h-full items-center px-6 ">
 						<SearchInput />
 					</div>
 					<div className="flex flex-1 h-full justify-end gap-8 pr-6 items-center">
-						{/* <Link href="/products"> */}
-						{/* <button className="hidden text-xl">내차 사기</button> */}
-						{/* </Link> */}
 						<button className="text-xl">내차 팔기</button>
 					</div>
-					{/* </div> */}
 				</div>
 			</div>
 		</header>

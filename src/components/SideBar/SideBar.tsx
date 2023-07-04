@@ -1,10 +1,10 @@
-import ContactIcon from "./ContactIcon";
-import VehicleTypes from "./VehicleTypes";
-import Category from "./Category";
-import Manufacturer from "./Manufacturer";
-import PriceRange from "./PriceRange";
-import MileageRange from "./MileageRange";
-import YearRange from "./YearRange";
+import ContactIcon from "../Icons/ContactIcon";
+import Category from "../Category/Category";
+import MileageRange from "../Category/MileageRange";
+import VehicleTypes from "../Category/VehicleTypes";
+import Manufacturer from "../Category/Manufacturer";
+import PriceRange from "../Category/PriceRange";
+import YearRange from "../Category/YearRange";
 const divClass =
 	"flex justify-between items-center min-h-16 gap-4 px-6  p-2 sm:border-b sm:border-x ";
 export default function SideBar() {

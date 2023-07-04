@@ -1,4 +1,4 @@
-import Header from "@/components/Header";
+import Header from "@/components/Header/Header";
 import "./globals.css";
 import { Anek_Latin, Noto_Sans_KR } from "next/font/google";
 import ReduxProvider from "@/redux/ReduxProvider";

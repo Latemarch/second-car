@@ -1,8 +1,7 @@
 import Banner from "@/components/Banner";
-import GeneralList from "@/components/GeneralList";
-import RecommendList from "@/components/RecommendList";
+import RecommendList from "@/components/ProductsPage/RecommendList";
 import SearchBox from "@/components/SearchBox";
-import SideBar from "@/components/SideBar";
+import SideBar from "@/components/SideBar/SideBar";
 import { getCarList } from "@/utils/utils";
 
 export default async function Home() {
@@ -17,12 +16,9 @@ export default async function Home() {
 					</div>
 				</div>
 				<div className="md:p-4 md:flex mb-10">
-					<div className="mb-10">
-						<SideBar />
-					</div>
+					<SideBar />
 					<div className="flex flex-col gap-20">
 						<RecommendList products={products.slice(0, 6)} />
-						<GeneralList products={products.slice(12, 24)} />
 					</div>
 				</div>
 			</div>

@@ -1,8 +1,7 @@
 import { toDate, withCommas } from "@/utils/utils";
-import FavIcon from "./FavIcon";
 import Link from "next/link";
 
-const imgDomain = "https://ci.encar.com/carpicture";
+export const imgDomain = "https://ci.encar.com/carpicture";
 type Props = {
 	[key: string]: any;
 };

@@ -1,5 +1,5 @@
-import ManufacturerList from "./ManufacturerList";
-import PriceRange from "./PriceRange";
+import ManufacturerList from "./Category/ManufacturerList";
+import PriceRange from "./Category/PriceRange";
 
 const domestic = ["현대", "기아", "르노코리아", "제네시스", "기타"];
 const global = ["벤츠", "BMW", "아우디", "폭스바겐", "기타"];
