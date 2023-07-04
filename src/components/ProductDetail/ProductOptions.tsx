@@ -21,7 +21,6 @@ const options = [
 ];
 export default function ProductOptions({ product }: { product: any }) {
 	const imgUrl = imgDomain + product.Photo + product.Photos[1].type;
-	console.log(imgUrl);
 	return (
 		<div>
 			<div className="flex-flex-col w-2/3 border-b-4 border-accent pb-1 mb-6">

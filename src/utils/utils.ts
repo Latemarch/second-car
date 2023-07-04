@@ -7,7 +7,6 @@ export const cls = (...classnames: string[]) => {
 
 export const getCarList = async () => {
 	const filePath = path.join(process.cwd(), "public", "datas", "carList.json");
-	console.log(filePath);
 	const fileContents = fs.readFileSync(filePath, "utf8");
 	const cars = JSON.parse(fileContents);
 

@@ -3,7 +3,7 @@ import { useState } from "react";
 import { FaAngleDown, FaAngleRight } from "react-icons/fa";
 
 const divClass =
-	"flex justify-between items-center min-h-16 gap-4 px-6  p-2 sm:border-b sm:border-x ";
+	"flex justify-between items-center min-h-16 gap-4 px-6  p-2 md:border-b sm:border-x ";
 type Props = {
 	name: string;
 	children: React.ReactNode;

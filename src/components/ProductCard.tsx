@@ -9,8 +9,8 @@ export default function ProductCard({ product }: Props) {
 	const { Price, Photo, Year, Manufacturer, Badge, FuelType, Model, Mileage } =
 		product;
 	return (
-		<div className="bg-white flex sm:flex-col w-full mx-w-[400px] shadow-sm sm:rounded-lg z-0 cursor-pointer">
-			<Link href={`/products/${product.Id}`}>
+		<Link href={`/products/${product.Id}`}>
+			<div className="bg-white flex sm:flex-col w-full mx-w-[400px] shadow-sm sm:rounded-lg z-0 cursor-pointer">
 				<div className="p-2 sm:p-0 flex relative overflow-auto w-1/2 sm:h-full sm:w-full ">
 					{/*  eslint-disable-next-line @next/next/no-img-element*/}
 					<img
@@ -18,10 +18,6 @@ export default function ProductCard({ product }: Props) {
 						alt="car"
 						className="w-full h-full rounded-sm md:rounded-t-md object-center"
 					/>
-
-					{/* <div className="absolute bg-accent m-1">
-						<FavIcon />
-					</div> */}
 				</div>
 				<div className="p-2 w-full">
 					<div className="mb-2 w-full flex flex-col items-start ">
@@ -41,7 +37,7 @@ export default function ProductCard({ product }: Props) {
 						<p>{withCommas(Price)}만원 </p>
 					</div>
 				</div>
-			</Link>
-		</div>
+			</div>
+		</Link>
 	);
 }

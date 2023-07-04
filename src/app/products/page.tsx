@@ -9,7 +9,7 @@ export default async function Products() {
 	return (
 		<div className="md:flex w-full max-w-7xl mx-auto">
 			<SideBar />
-			<main className=" flex md:flex-col text-center p-4 pt-20">
+			<main className="flex-col md:flex text-center p-4 pt-20">
 				<RecommendList products={products} />
 				<GeneralList products={products.slice(12, 24)} />
 			</main>

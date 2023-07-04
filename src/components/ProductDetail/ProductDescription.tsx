@@ -2,6 +2,7 @@ import { AiOutlineCheckCircle } from "react-icons/ai";
 import ProductSidebar from "./ProductSidebar";
 import ProductHistory from "./ProductHistory";
 import ProductOptions from "./ProductOptions";
+import RelatedProducts from "./RelatedProducts";
 
 export default function ProductDescription({ product }: { product: any }) {
 	return (
@@ -18,6 +19,7 @@ export default function ProductDescription({ product }: { product: any }) {
 				<div className="flex flex-col sm:w-2/3 mr-6 gap-20">
 					<ProductHistory product={product} />
 					<ProductOptions product={product} />
+					<RelatedProducts />
 				</div>
 			</div>
 		</div>

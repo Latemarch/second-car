@@ -4,33 +4,27 @@ import { RiSteering2Fill } from "react-icons/ri";
 import FixIcon from "../Icons/FixIcon";
 
 const selectionStyle =
-	"block border rounded-md p-1 w-28 sm:flex w-full justify-between items-center md:flex-col md:items-start";
+	"flex border rounded-md p-2 w-28 w-full justify-between items-center ";
 export default function ProductSidebar() {
 	return (
 		<div className="p-2 flex flex-col rounded-lg   shadow-md border md:w-72">
-			<div className="flex md:flex gap-2 text-xs mb-4">
+			<div className="flex flex-col gap-2 text-xs mb-4">
 				<div className={selectionStyle}>
-					<LiaShippingFastSolid size={30} />
-					<p>탁송</p>
-					<div className="block sm:hidden md:inline">
-						<p>집에서 받기</p>
-						<p>Free</p>
+					<div className="flex text-md items-center gap-4">
+						<LiaShippingFastSolid size={30} />
+						<p>탁송</p>
 					</div>
 				</div>
 				<div className={selectionStyle}>
-					<HiOutlineBuildingOffice2 size={30} />
-					<p>온라인구매</p>
-					<div className="block sm:hidden md:inline">
-						<p>&직접 픽업</p>
-						<p>Free</p>
+					<div className="flex text-md items-center gap-4">
+						<HiOutlineBuildingOffice2 size={30} />
+						<p>온라인구매</p>
 					</div>
 				</div>
 				<div className={selectionStyle}>
-					<RiSteering2Fill size={30} />
-					<p>직접보기</p>
-					<div className="block sm:hidden md:inline">
-						<p>방문하기</p>
-						<p>Free</p>
+					<div className="flex text-md items-center gap-4">
+						<RiSteering2Fill size={30} />
+						<p>오프라인 구매</p>
 					</div>
 				</div>
 			</div>

@@ -6,12 +6,12 @@ import Manufacturer from "../Category/Manufacturer";
 import PriceRange from "../Category/PriceRange";
 import YearRange from "../Category/YearRange";
 const divClass =
-	"flex justify-between items-center min-h-16 gap-4 px-6  p-2 sm:border-b sm:border-x ";
+	"flex justify-between items-center min-h-16 gap-4 px-6  p-2 lg:border-b md:border-x ";
 export default function SideBar() {
 	return (
 		<aside className="w-full shrink-0 z-20 md:w-52 md:rounded-xl mt-20 md:ml-4 ">
 			<div className="sticky z-20 top-20 md:shadow-md md:rounded-xl">
-				<div className={`${divClass} sm:border-t md:rounded-t-xl `}>
+				<div className={`${divClass} md:border-t md:rounded-t-xl `}>
 					<div className="">
 						<div className="flex gap-4 pt-2">
 							<ContactIcon name={"kakao"} />
