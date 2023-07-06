@@ -1,9 +1,8 @@
 import Header from "@/components/Header/Header";
 import "./globals.css";
-import { Anek_Latin, Noto_Sans_KR } from "next/font/google";
+import { Noto_Sans_KR } from "next/font/google";
 import ReduxProvider from "@/redux/ReduxProvider";
 import Footer from "@/components/Footer";
-import Banner from "@/components/Banner";
 
 const orbit = Noto_Sans_KR({
 	//

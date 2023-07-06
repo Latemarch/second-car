@@ -12,6 +12,18 @@ export const getCarList = async () => {
 
 	return cars.SearchResults;
 };
+export const getSelectList = async () => {
+	const filePath = path.join(
+		process.cwd(),
+		"public",
+		"datas",
+		"selectList.json"
+	);
+	const fileContents = fs.readFileSync(filePath, "utf8");
+	const result = JSON.parse(fileContents);
+
+	return result;
+};
 
 export const getCarById = async (id: string) => {
 	const filePath = path.join(process.cwd(), "public", "datas", "carList.json");

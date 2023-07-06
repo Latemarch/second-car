@@ -16,7 +16,6 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params: { id } }: Props) {
 	const product = await getCarById(id);
-	console.log(product);
 	return {
 		title: `세계자동차 | ${product.Model}`,
 		description: `${product.BadgeDetail} 등급의 ${product.FormYear}년식 ${product.Modal}`,
@@ -27,7 +26,6 @@ export default async function Product({ params: { id } }: Props) {
 	const product = await getCarById(id);
 	const { Photo, Photos } = product;
 
-	console.log(product);
 	return (
 		<div>
 			<ProductHeader product={product} />
