@@ -4,7 +4,7 @@ import Slider from "rc-slider";
 import { useState } from "react";
 import "rc-slider/assets/index.css";
 
-export default function () {
+export default function PriceRange() {
 	const [value, setValue] = useState<number[]>([0, 100]);
 
 	const onSliderChange = (newValue: number | number[]) => {

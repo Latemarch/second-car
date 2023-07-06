@@ -1,4 +1,3 @@
-import { AiOutlineCheckCircle } from "react-icons/ai";
 import ProductSidebar from "./ProductSidebar";
 import ProductHistory from "./ProductHistory";
 import ProductOptions from "./ProductOptions";

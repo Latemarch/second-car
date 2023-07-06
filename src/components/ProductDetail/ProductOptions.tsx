@@ -28,7 +28,7 @@ export default function ProductOptions({ product }: { product: any }) {
 			</div>
 			<div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-1 text-sm ">
 				{options.map((option) => (
-					<div className="flex items-center gap-1">
+					<div key={option} className="flex items-center gap-1">
 						<AiOutlineCheck color={"green"} />
 						{option}
 					</div>
