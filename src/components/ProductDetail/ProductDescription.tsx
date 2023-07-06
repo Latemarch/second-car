@@ -1,7 +1,6 @@
 import ProductSidebar from "./ProductSidebar";
 import ProductHistory from "./ProductHistory";
 import ProductOptions from "./ProductOptions";
-import RelatedProducts from "./RelatedProducts";
 
 export default function ProductDescription({ product }: { product: any }) {
 	return (
