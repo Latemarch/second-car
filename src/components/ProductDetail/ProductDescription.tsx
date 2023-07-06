@@ -18,7 +18,6 @@ export default function ProductDescription({ product }: { product: any }) {
 				<div className="flex flex-col sm:w-2/3 mr-6 gap-20">
 					<ProductHistory product={product} />
 					<ProductOptions product={product} />
-					<RelatedProducts />
 				</div>
 			</div>
 		</div>
