@@ -1,6 +1,6 @@
 import Banner from "@/components/Banner";
 import RecommendList from "@/components/ProductsPage/RecommendList";
-import SearchBox from "@/components/SearchBox";
+import SearchBox from "@/components/SearchBox/SearchBox";
 import SideBar from "@/components/SideBar/SideBar";
 import { getCarList } from "@/utils/utils";
 

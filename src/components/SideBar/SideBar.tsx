@@ -21,13 +21,6 @@ export default function SideBar() {
 						<p className="text-xl text-start pt-1">010.2929.5959</p>
 					</div>
 				</div>
-				{/* <div className={divClass}>
-					<p>차종</p>
-					<FaAngleRight />
-				</div>
-				<div className={divClass}>
-					<VehicleTypes />
-				</div> */}
 				<Category name="차종">
 					<VehicleTypes />
 				</Category>

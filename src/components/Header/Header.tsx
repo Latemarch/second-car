@@ -22,10 +22,9 @@ export default function Header() {
 							<h1 className="text-xl">세계 자동차</h1>
 						</Link>
 					</div>
-					<div className="flex flex-1 h-full items-center px-6 ">
-						<SearchInput />
-					</div>
+					<div className="flex flex-1 h-full items-center px-6 "></div>
 					<div className="flex flex-1 h-full justify-end gap-8 pr-6 items-center">
+						<button className="text-xl">내차 사기</button>
 						<button className="text-xl">내차 팔기</button>
 					</div>
 				</div>

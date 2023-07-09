@@ -12,6 +12,7 @@ export const getCarList = async () => {
 
 	return cars.SearchResults;
 };
+
 export const getSelectList = async () => {
 	const filePath = path.join(
 		process.cwd(),
